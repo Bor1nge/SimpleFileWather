@@ -1,0 +1,7 @@
+C:\Users\ning\source\repos\SimpleFileWatch\SimpleFileWatch\bin\Debug\SimpleFileWatch.exe.config
+C:\Users\ning\source\repos\SimpleFileWatch\SimpleFileWatch\bin\Debug\SimpleFileWatch.exe
+C:\Users\ning\source\repos\SimpleFileWatch\SimpleFileWatch\bin\Debug\SimpleFileWatch.pdb
+C:\Users\ning\source\repos\SimpleFileWatch\SimpleFileWatch\obj\Debug\SimpleFileWatch.csprojAssemblyReference.cache
+C:\Users\ning\source\repos\SimpleFileWatch\SimpleFileWatch\obj\Debug\SimpleFileWatch.csproj.CoreCompileInputs.cache
+C:\Users\ning\source\repos\SimpleFileWatch\SimpleFileWatch\obj\Debug\SimpleFileWatch.exe
+C:\Users\ning\source\repos\SimpleFileWatch\SimpleFileWatch\obj\Debug\SimpleFileWatch.pdb
