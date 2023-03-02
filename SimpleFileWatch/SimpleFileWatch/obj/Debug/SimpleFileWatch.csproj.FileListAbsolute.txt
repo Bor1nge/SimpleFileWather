@@ -5,3 +5,11 @@ C:\Users\ning\source\repos\SimpleFileWatch\SimpleFileWatch\obj\Debug\SimpleFileW
 C:\Users\ning\source\repos\SimpleFileWatch\SimpleFileWatch\obj\Debug\SimpleFileWatch.csproj.CoreCompileInputs.cache
 C:\Users\ning\source\repos\SimpleFileWatch\SimpleFileWatch\obj\Debug\SimpleFileWatch.exe
 C:\Users\ning\source\repos\SimpleFileWatch\SimpleFileWatch\obj\Debug\SimpleFileWatch.pdb
+C:\Users\Yn\Desktop\SimpleFileWatch\SimpleFileWatch\bin\Debug\SimpleFileWatch.exe.config
+C:\Users\Yn\Desktop\SimpleFileWatch\SimpleFileWatch\bin\Debug\SimpleFileWatch.exe
+C:\Users\Yn\Desktop\SimpleFileWatch\SimpleFileWatch\bin\Debug\SimpleFileWatch.pdb
+C:\Users\Yn\Desktop\SimpleFileWatch\SimpleFileWatch\obj\Debug\SimpleFileWatch.csproj.AssemblyReference.cache
+C:\Users\Yn\Desktop\SimpleFileWatch\SimpleFileWatch\obj\Debug\SimpleFileWatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yn\Desktop\SimpleFileWatch\SimpleFileWatch\obj\Debug\SimpleFileWatch.csproj.CoreCompileInputs.cache
+C:\Users\Yn\Desktop\SimpleFileWatch\SimpleFileWatch\obj\Debug\SimpleFileWatch.exe
+C:\Users\Yn\Desktop\SimpleFileWatch\SimpleFileWatch\obj\Debug\SimpleFileWatch.pdb

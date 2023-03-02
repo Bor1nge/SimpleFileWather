@@ -26,7 +26,7 @@ namespace SimpleFileWatch
         }
 
         static void Help() {
-            Console.WriteLine("Usage: SimpleFileWatch -path <directory1,directory2,...> -filter <filter>");
+            Console.WriteLine("Usage: SimpleFileWatch -path <directory1,directory2,...> -filter <filter> -target <target> -move <true|false>");
         }
 
         static async Task StartWatch(string path , string filter) {
